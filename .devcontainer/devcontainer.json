@@ -1,0 +1,5 @@
+{
+  "name": "port-forward-repro",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "forwardPorts": [8000]
+}
